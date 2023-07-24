@@ -1,0 +1,17 @@
+import wollok.game.*
+import nivel1.*
+import intro.*
+import home.*
+program donkeyKong{
+	game.width(20)
+	game.height(20)
+	game.cellSize(50)
+	game.title("Donkey Kong")
+	game.boardGround("fondo.jpg")
+
+  	intro.cargar()
+  	//home.cargar()
+  	//nivel1.cargar()
+  	
+  	game.start()
+}
