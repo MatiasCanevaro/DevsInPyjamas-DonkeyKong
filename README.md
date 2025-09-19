@@ -22,7 +22,7 @@
 - ⬅️ Left arrow: move left  
 - ➡️ Right arrow: move right  
 - ⬆️ Up arrow: climb ladders  
-- ␣ Space: jump  
+- Space: jump  
 
 ### Objective
-🏆 Reach the highest platform to rescue Princess Peach 👑
+🏆 Reach the highest platform to rescue Princess Peach
